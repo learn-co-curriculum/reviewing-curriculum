@@ -8,4 +8,4 @@ If you're the reviewer, make sure that you've read this curriculum guide in its 
 
 Also, don't just point out the areas that need improvement. Point out too the things that are working. Praise generously and be positive. 
 
-<a href='https://learn.co/lessons/reviewing-curriculum' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/reviewing-curriculum' title='Before you submit a pull request for your lesson, you should review it yourself first. '>Before you submit a pull request for your lesson, you should review it yourself first. </a> on Learn.co and start learning to code for free.</p>
